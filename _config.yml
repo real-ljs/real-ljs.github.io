@@ -6,13 +6,13 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yue Li"
+title                    : "Junsong Li (李俊松)"
 description              : "Master's student in ECNU, focusing on LLM safety"
-repository               : "TheShineyue/TheShineyue.github.io"
+repository               : "real-ljs/kikuss.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
-google_analytics_id      : Tyk8UuwAAAAJ
+google_analytics_id      : yJeGN00AAAAJ
 
 # SEO Related
 google_site_verification : b_BbOIt7d513ZXYDw-YRMicO6O5tthYiouqWDdWjGTU
@@ -21,14 +21,14 @@ baidu_site_verification  : code-ZxFK3f4pfb
 
 # Site Author
 author:
-  name             : "Yue Li (李越)"
+  name             : "Junsong Li (李俊松)"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "East China Normal University"
   location         : "Shanghai, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=Tyk8UuwAAAAJ"
-  email            : "yue_li@stu.ecnu.edu.cn"
+  googlescholar    : "https://scholar.google.com.hk/citations?user=yJeGN00AAAAJ"
+  email            : "junsong-li@stu.ecnu.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "TheShineyue"
+  github           : "real-ljs"
   google_plus      :
   keybase          :
   instagram        :
