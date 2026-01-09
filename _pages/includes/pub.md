@@ -1,6 +1,7 @@
 
 # 📝 Publications 
 
+- `AAAI 2026` [Lifealign: Lifelong alignment for large language models with memory-augmented focalized preference optimization](https://arxiv.org/pdf/2509.17183), **Junsong Li**, Jie Zhou, Bihao Zhan, Yutao Yang, Qianjun Pan and Liang He et al.
 - `ICME 2025` [Teaching LLMs for Step-Level Automatic Math Correction via Reinforcement Learning](https://arxiv.org/abs/2503.18432), **Junsong Li**, Jie Zhou, Yutao Yang, Bihao Zhan, Qianjun Pan and Liang He et al.
 - `ICME 2025` [Keyword-Oriented Multimodal Modeling for Euphemism Identification](https://arxiv.org/abs/2503.21504), Yuxue Hu, **Junsong Li**, Meixuan Chen, Dongyu Su, Tongguan Wang, Ying Sha
 - `ACL 2024` [A Unified Generative Framework for Bilingual Euphemism Detection and Identification](https://aclanthology.org/2024.findings-acl.403/), Yuxue Hu, **Junsong Li**, Tongguan Wang, Dongyu Su, Guixin Su, Ying Sha
